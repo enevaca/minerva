@@ -1,0 +1,12 @@
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\CadMinerva.dll.config
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\CadMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\CadMinerva.pdb
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\EntityFramework.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\EntityFramework.SqlServer.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\EntityFramework.xml
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Debug\EntityFramework.SqlServer.xml
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Debug\CadMinerva.csprojAssemblyReference.cache
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Debug\CadMinerva.csproj.CoreCompileInputs.cache
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Debug\CadMinerva.csproj.CopyComplete
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Debug\CadMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Debug\CadMinerva.pdb

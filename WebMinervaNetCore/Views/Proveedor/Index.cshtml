@@ -1,0 +1,67 @@
+﻿@model IEnumerable<WebMinervaNetCore.Models.ProveedorCustom>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div style="margin:25px;">
+    <h1>Proveedores</h1>
+
+    <p>
+        <a asp-action="Create">Crear Nuevo</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>NIT</th>
+                <th>Razón Social</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>
+                    @Html.DisplayNameFor(model => model.representante)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.usuarioRegistro)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.fechaRegistro)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @item.nit
+                    </td>
+                    <td>
+                        @item.razonSocial
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.direccion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.telefono)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.representante)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.usuarioRegistro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fechaRegistro)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.id">Editar</a> |
+                        <a asp-action="Details" asp-route-id="@item.id">Detalle</a> |
+                        <a asp-action="Delete" asp-route-id="@item.id">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

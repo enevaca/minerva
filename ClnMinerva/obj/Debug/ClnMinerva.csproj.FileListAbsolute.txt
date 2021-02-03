@@ -1,0 +1,15 @@
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\ClnMinerva.dll.config
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\ClnMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\ClnMinerva.pdb
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\CadMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\EntityFramework.dll
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\EntityFramework.SqlServer.dll
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\CadMinerva.pdb
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\CadMinerva.dll.config
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\EntityFramework.xml
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\bin\Debug\EntityFramework.SqlServer.xml
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\obj\Debug\ClnMinerva.csprojAssemblyReference.cache
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\obj\Debug\ClnMinerva.csproj.CoreCompileInputs.cache
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\obj\Debug\ClnMinerva.csproj.CopyComplete
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\obj\Debug\ClnMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\ClnMinerva\obj\Debug\ClnMinerva.pdb

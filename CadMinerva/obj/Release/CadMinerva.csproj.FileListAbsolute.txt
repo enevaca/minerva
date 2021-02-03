@@ -1,0 +1,12 @@
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\CadMinerva.dll.config
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\CadMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\CadMinerva.pdb
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\EntityFramework.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\EntityFramework.SqlServer.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\EntityFramework.xml
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\bin\Release\EntityFramework.SqlServer.xml
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Release\CadMinerva.csprojAssemblyReference.cache
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Release\CadMinerva.csproj.CoreCompileInputs.cache
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Release\CadMinerva.csproj.CopyComplete
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Release\CadMinerva.dll
+D:\informatica\sis457\proyectos\Minerva\CadMinerva\obj\Release\CadMinerva.pdb

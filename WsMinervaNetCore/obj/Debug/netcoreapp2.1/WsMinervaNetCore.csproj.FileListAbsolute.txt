@@ -1,0 +1,17 @@
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\appsettings.json
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\WsMinervaNetCore.deps.json
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\WsMinervaNetCore.runtimeconfig.json
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\WsMinervaNetCore.runtimeconfig.dev.json
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\WsMinervaNetCore.dll
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\bin\Debug\netcoreapp2.1\WsMinervaNetCore.pdb
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.csprojAssemblyReference.cache
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.AssemblyInfoInputs.cache
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.AssemblyInfo.cs
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.csproj.CoreCompileInputs.cache
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.RazorAssemblyInfo.cache
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.RazorAssemblyInfo.cs
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.RazorTargetAssemblyInfo.cache
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.dll
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.pdb
+D:\informatica\sis457\proyectos\Minerva\WsMinervaNetCore\obj\Debug\netcoreapp2.1\WsMinervaNetCore.genruntimeconfig.cache
